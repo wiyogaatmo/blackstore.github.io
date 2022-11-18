@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,800;0,900;1,200;1,600&display=swap');
+
+body{
+	background-color: #F6F7FB;
+	font-family:'poppins',sans serif;
+	color:#2D2D2D;
+}
+.form-control{
+	width: 350px;
+}
+.asset-sneaker{
+	width: 50px;
+}
+.row-container{
+	background-color: #fff;
+	margin: 0px;
+}
+.div.class="col-lg-2-col-md-3 col-sm-4 col-6"{
+	width: 70px;
+}
+.assets-shoes:hover{
+	transform: scale(1.6);
+
+}
+.assets-Baju:hover{
+	transform: scale(1.6);
+}
+.assets-perabotan:hover{
+	transform: scale(1.6);
+}
+.assets-celanahitam:hover{
+	transform: scale(1.6);
+}
+.assets-jam:hover{
+	transform: scale(1.6);
+}
+.assets-hp:hover{
+	transform: scale(1.6);
+}
+.assets-laptop:hover{
+	transform: scale(1.6);
+}
+.assets-otomotif:hover{
+	transform: scale(1.6);
+}
+.assets-kosmetik:hover{
+	transform: scale(1.6);
+}
+.assets-tas:hover{
+	transform: scale(1.6);
+}
+.assets-elektronik:hover{
+	transform: scale(1.6)
+}
+.assets-kesehatan:hover{
+	transform: scale(1.6);
+}
+.row-container{
+	background-color: #fff
+	margin: 0px;
+}
+.container mt-5{
+	margin-top: 5px;
+	padding: 5px;
+	text-align: left;
+}
